@@ -1,0 +1,27 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AssarelVehicleInformation"
+        mc:Ignorable="d"
+        Title="Assarel Vehicle Information" Height="350" Width="1230"
+        ResizeMode="CanMinimize">
+        
+    <Grid>
+        <StackPanel Orientation="Horizontal" Height="35" VerticalAlignment="Top">
+            <Button Content="Excavator6" MinWidth="100" Margin="10,0,0,0" Click="BtnClickExcavator6"/>
+            <Button Content="Excavator7" MinWidth="100" Margin="10,0,0,0" Click="BtnClickExcavator7"/>
+            <Button Content="Excavator8" MinWidth="100" Margin="10,0,0,0" Click="BtnClickExcavator8"/>
+            <Button Content="Excavator9" MinWidth="100" Margin="10,0,0,0" Click="BtnClickExcavator9"/>
+            <Button Content="Excavator11" MinWidth="100" Margin="10,0,0,0" Click="BtnClickExcavator11"/>
+            <Button Content="FrontLoader5" MinWidth="100" Margin="10,0,0,0" Click="BtnClickFrontLoader5"/>
+            <Button Content="FrontLoader10" MinWidth="100" Margin="10,0,0,0" Click="BtnClickFrontLoader10"/>
+            <Button Content="DrillD1" MinWidth="100" Margin="10,0,0,0"  Click="BtnClickDrillD1"/>
+            <Button Content="DrillD2" MinWidth="100" Margin="10,0,0,0"  Click="BtnClickDrillD2"/>
+            <Button Content="ROC1" MinWidth="100" Margin="10,0,0,0"  Click="BtnClickROC1"/>
+            <Button Content="ROC2" MinWidth="100" Margin="10,0,0,0"  Click="BtnClickROC2"/>
+        </StackPanel>
+        <Frame x:Name="Main" Margin="0,35,0,0" NavigationUIVisibility="Hidden" />
+    </Grid>
+</Window>

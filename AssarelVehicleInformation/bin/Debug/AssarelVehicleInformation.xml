@@ -1,0 +1,193 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AssarelVehicleInformation
+</name>
+</assembly>
+<members>
+<member name="T:AssarelVehicleInformation.My.MyWpfExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:AssarelVehicleInformation.My.MyWpfExtension.Application">
+ <summary>
+ Returns the application object for the running application
+ </summary>
+</member>
+<member name="P:AssarelVehicleInformation.My.MyWpfExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:AssarelVehicleInformation.My.MyWpfExtension.User">
+ <summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:AssarelVehicleInformation.My.MyWpfExtension.Log">
+ <summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member>
+<member name="P:AssarelVehicleInformation.My.MyWpfExtension.Windows">
+ <summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member>
+<member name="T:AssarelVehicleInformation.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AssarelVehicleInformation.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AssarelVehicleInformation.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:AssarelVehicleInformation.ROC1">
+<summary>
+ROC1
+</summary>
+</member>
+<member name="M:AssarelVehicleInformation.ROC1.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:AssarelVehicleInformation.ROC2">
+<summary>
+ROC2
+</summary>
+</member>
+<member name="M:AssarelVehicleInformation.ROC2.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:AssarelVehicleInformation.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:AssarelVehicleInformation.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:AssarelVehicleInformation.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:AssarelVehicleInformation.drillD1">
+<summary>
+drillD1
+</summary>
+</member>
+<member name="M:AssarelVehicleInformation.drillD1.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:AssarelVehicleInformation.DrillD2">
+<summary>
+DrillD2
+</summary>
+</member>
+<member name="M:AssarelVehicleInformation.DrillD2.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:AssarelVehicleInformation.Excavator11">
+<summary>
+Excavator11
+</summary>
+</member>
+<member name="M:AssarelVehicleInformation.Excavator11.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:AssarelVehicleInformation.Excavator6">
+<summary>
+Excavator6
+</summary>
+</member>
+<member name="M:AssarelVehicleInformation.Excavator6.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:AssarelVehicleInformation.Excavator7">
+<summary>
+Excavator7
+</summary>
+</member>
+<member name="M:AssarelVehicleInformation.Excavator7.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:AssarelVehicleInformation.Excavator8">
+<summary>
+Excavator8
+</summary>
+</member>
+<member name="M:AssarelVehicleInformation.Excavator8.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:AssarelVehicleInformation.Excavator9">
+<summary>
+Excavator9
+</summary>
+</member>
+<member name="M:AssarelVehicleInformation.Excavator9.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:AssarelVehicleInformation.FrontLoader10">
+<summary>
+FrontLoader10
+</summary>
+</member>
+<member name="M:AssarelVehicleInformation.FrontLoader10.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:AssarelVehicleInformation.FrontLoader5">
+<summary>
+FrontLoader5
+</summary>
+</member>
+<member name="M:AssarelVehicleInformation.FrontLoader5.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:AssarelVehicleInformation.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:AssarelVehicleInformation.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>
